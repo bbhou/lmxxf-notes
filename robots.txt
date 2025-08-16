@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://houbb.github.io/vpress/sitemap.xml
+Sitemap: https://houbb.github.io/lmxxf-notes/sitemap.xml
