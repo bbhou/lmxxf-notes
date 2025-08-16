@@ -13,7 +13,7 @@ export default hopeTheme({
 
   logo: "/assets/images/lmxxf.png",
 
-  repo: "houbb/vpress",
+  repo: "bbhou/lmxxf-notes",
 
   docsDir: "src",
 
